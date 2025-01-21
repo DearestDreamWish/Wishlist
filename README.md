@@ -2,12 +2,6 @@
 Roman Zaikin 
 Cyber and Hacking in the Worlds of Blockchain and Crypto book.
 
-Roman Zaikin 
-Cyber web 
-
-Roman Zaikin 
-Cyber network
-
 The Art of Exploit Development: A Practical Guide to Writing Custom Exploits for Red Teamers. Book
 
 Automotive Hacking Countermeasures. Djibril Chimère DIAW. Book
