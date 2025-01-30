@@ -1,6 +1,4 @@
 # Wishlist
-Roman Zaikin 
-Cyber and Hacking in the Worlds of Blockchain and Crypto book.
 
 The Art of Exploit Development: A Practical Guide to Writing Custom Exploits for Red Teamers. Book
 
