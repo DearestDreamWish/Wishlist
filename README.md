@@ -12,13 +12,9 @@ Seven Deadliest Unified Communications Attacks
 
 Managed Code Rootkits
 
-Car Hacking Playbook
-
 Hacking Exposed Industrial Control Systems: ICS and SCADA Security Secrets & Solutions
 
 Windows APT Warfare
-
-Adversarial Attacks and Defenses- Exploring FGSM and PGD: Hacking AI
 
 The Android Malware Handbook
 - Detection and Analysis by Human and Machine
@@ -33,8 +29,6 @@ Serious Cryptography, 2nd Edition
 
 Evasive Malware
 
-Securing the Smart Grid
-
 Fuzzing
 - Brute Force Vulnerability Discovery
 
@@ -47,26 +41,19 @@ Offensive Shellcode from Scratch
 
 PowerShell for Penetration Testing
 
-Network Protocols for Security Professionals
-
 Cyber Forensics
 - Examining Emerging and Hybrid Technologies
 
-The Rootkit Arsenal: Escape and Evasion in the Dark Corners of the System
+The Rootkit Arsenal: Escape and Evasion in the Dark Corners of the System 2th
 
 Industrial Network Security
-- Securing Critical Infrastructure Networks for Smart Grid, SCADA, and Other Industrial Control Systems
+- Securing Critical Infrastructure Networks for Smart Grid, SCADA, and Other Industrial Control Systems 3th
 
 Mastering KVM Virtualization - Second Edition
-
-Running KVM
-- A Hands-on Guide to the Linux Kernel Virtual Machine
 
 Hack the Airwaves: Advanced BLE Exploitation Techniques
 
 Deep Dive The Development of an Exploit (WIN32) af Manu Carus 
-
-Hacking Binary Programs and Exploit Analysis (Chapman & Hall/CRC Cryptography and Network Security Series)
 
 Ethical Hacking and Countermeasures : Attack Phases by EC-Council 2th edition
 
@@ -75,3 +62,8 @@ Ethical Hacking and Countermeasures: Web Applications and Data Servers, 2th Edit
 Computer Forensics: Investigation Procedures and Response 2th edition
 
 Computer Forensics: Investigating Data and Image Files 2th edition
+
+Running KVM
+- A Hands-on Guide to the Linux Kernel Virtual Machine
+
+Hacking Binary Programs and Exploit Analysis (Chapman & Hall/CRC Cryptography and Network Security Series)
