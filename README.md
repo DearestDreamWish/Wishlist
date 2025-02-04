@@ -2,8 +2,6 @@
 
 The Art of Exploit Development: A Practical Guide to Writing Custom Exploits for Red Teamers. Book
 
-Automotive Hacking Countermeasures. Djibril Chimère DIAW. Book
-
 Evading Edr
 
 The Hacker Playbook
@@ -22,8 +20,6 @@ The Android Malware Handbook
 Hacking APIs
 
 Defending APIs
-
-Inside Radio: An Attack and Defense Guide
 
 Serious Cryptography, 2nd Edition
 
