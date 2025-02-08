@@ -47,8 +47,6 @@ Industrial Network Security
 
 Mastering KVM Virtualization - Second Edition
 
-Hack the Airwaves: Advanced BLE Exploitation Techniques
-
 Deep Dive The Development of an Exploit (WIN32) af Manu Carus 
 
 Ethical Hacking and Countermeasures : Attack Phases by EC-Council 2th edition
