@@ -47,8 +47,6 @@ Industrial Network Security
 
 Mastering KVM Virtualization - Second Edition
 
-Deep Dive The Development of an Exploit (WIN32) af Manu Carus 
-
 Ethical Hacking and Countermeasures : Attack Phases by EC-Council 2th edition
 
 Ethical Hacking and Countermeasures: Web Applications and Data Servers, 2th Edition
