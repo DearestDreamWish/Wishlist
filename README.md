@@ -2,6 +2,8 @@
 
 The Art of Exploit Development: A Practical Guide to Writing Custom Exploits for Red Teamers. Book
 
+Hack the Airwaves: Advanced BLE Exploitation Techniques
+
 Evading Edr
 
 The Hacker Playbook
