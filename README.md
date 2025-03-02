@@ -1,6 +1,8 @@
 # Wishlist
 See my github profile.
 
+Adversarial AI Attacks, Mitigations, and Defense Strategies
+
 The Art of Exploit Development: A Practical Guide to Writing Custom Exploits for Red Teamers. Book
 
 PowerShell for Penetration Testing
@@ -23,10 +25,10 @@ Industrial Network Security
 
 Mastering KVM Virtualization - Second Edition
 
-Ethical Hacking and Countermeasures : Attack Phases by EC-Council 2th edition
-
 Ethical Hacking and Countermeasures: Web Applications and Data Servers, 2th Edition
 
 Computer Forensics: Investigation Procedures and Response 2th edition
 
 Computer Forensics: Investigating Data and Image Files 2th edition
+
+97 Things Every Application Security Professional Should Know
