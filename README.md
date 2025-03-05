@@ -3,6 +3,12 @@ See my github profile.
 
 Adversarial AI Attacks, Mitigations, and Defense Strategies
 
+Ghidra Software Reverse-Engineering for Beginners - Second Edition
+
+Ghidra for Security Professionals: A Guide to Reverse Engineering, Binary Analysis, and Exploit Development
+
+Ghidra Essentials: The Complete Guide to Reverse Engineering
+
 The Art of Exploit Development: A Practical Guide to Writing Custom Exploits for Red Teamers. Book
 
 PowerShell for Penetration Testing
