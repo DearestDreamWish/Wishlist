@@ -1,6 +1,8 @@
 # Wishlist
 See my github profile.
 
+From Day Zero to Zero Day
+
 Adversarial AI Attacks, Mitigations, and Defense Strategies
 
 Ghidra Software Reverse-Engineering for Beginners - Second Edition
