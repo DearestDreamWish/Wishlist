@@ -39,4 +39,6 @@ Computer Forensics: Investigation Procedures and Response 2th edition
 
 Computer Forensics: Investigating Data and Image Files 2th edition
 
+Game Hacking: Developing Autonomous Bots for Online Games
+
 97 Things Every Application Security Professional Should Know
