@@ -1,7 +1,17 @@
 # Wishlist
-See my github profile.
+Please do buy me a physical book from my wishlist repo.
+0. Contact me: whatisthepoll@gmail.com
+1. Name: Kadel Saleh
+2. Address(apartment): Murskeen 28, 411
+3. City: Taastrup
+4. Postal code: 2630
+5. Country: Denmark
+6. Feel free to contact me and after my response visit me.
+7. We can always start a friendship or a co-operation for something.
 
 From Day Zero to Zero Day
+
+Building a Debugger: Write a Native x64 Debugger From Scratch
 
 Adversarial AI Attacks, Mitigations, and Defense Strategies
 
